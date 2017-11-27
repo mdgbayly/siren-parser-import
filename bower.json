@@ -1,0 +1,16 @@
+{
+  "name": "siren-parser-import",
+  "description": "An HTML import for https://github.com/Brightspace/node-siren-parser",
+  "main": "siren-parser.html",
+  "authors": [
+    "D2L Corporation"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/Brightspace/siren-parser-import",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -9,8 +9,6 @@
   "homepage": "https://github.com/Brightspace/siren-parser-import",
   "ignore": [
     "**/.*",
-    "bower_components",
-    "test",
-    "tests"
+    "bower_components"
   ]
 }

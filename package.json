@@ -2,6 +2,6 @@
   "name": "siren-parser-import",
   "author": "D2L Corporation",
   "dependencies": {
-    "siren-parser": "6.6.0"
+    "siren-parser": "7.0.0"
   }
 }
